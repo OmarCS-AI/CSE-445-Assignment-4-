@@ -7,7 +7,7 @@
     <Phone>928-638-7496</Phone>
     <Phone>888-297-2757</Phone>
     <Phone>866-499-2574</Phone>
-    <Address NearestAirport="Flagstaff">
+    <Address NearestAirport="FlagStaff">
       <Number>8</Number>
       <Street>S Entrance Road</Street>
       <City>Grand Canyon</City>
@@ -122,6 +122,19 @@
       <City>Twentynine Palms</City>
       <State>CA</State>
       <Zip>92277</Zip>
+    </Address>
+  </NationalPark>
+
+  <NationalPark Rating="4.8">
+    <Name>Great Smoky Mountains</Name>
+    <Phone>865-436-1200</Phone>
+    <Phone>865-436-1294</Phone>
+    <Address NearestAirport="Knoxville">
+      <Number>107</Number>
+      <Street>Park Headquarters Road</Street>
+      <City>Gatlinburg</City>
+      <State>TN</State>
+      <Zip>37738</Zip>
     </Address>
   </NationalPark>
 
